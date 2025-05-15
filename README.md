@@ -1,6 +1,7 @@
 # About me
 ## This is a sub header
 ### This is a sub sub header
+# New Header
 
 **samiholz/samiholz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
